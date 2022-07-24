@@ -14,6 +14,10 @@ These static web source files are for reference only and should not be cloned an
 
 Feel free to leave your questions to me directly on Github
 
+xiaokong23357.github.io web开源基于[麻省理工学院许可证（MIT协议）](https://opensource.org/licenses/MIT)下开源
+
+xiaokong23357.github.io Web open source is based on MIT license (MIT agreement)
+
 喵喵~
 
 Meowth~

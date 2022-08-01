@@ -2,7 +2,7 @@
 
 xiaokong's portion of static web page storage space
 
-您可以通过克隆这些静态网页源文件来获得我的东西awa
+您可以通过克隆这些静态网页源文件来获得我的东西
 
 You can get my stuff by cloning these static web source files 
 
